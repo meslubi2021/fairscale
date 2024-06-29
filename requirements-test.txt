@@ -4,7 +4,7 @@
 # Tools for static checking.
 #   - flake8-annotations is needed to avoid F811 error with overload
 #     function typing with mypy.
-black == 19.10b0
+black == 24.3.0
 flake8 == 3.7.9
 flake8-annotations == 2.6.2
 isort == 5.6.4
